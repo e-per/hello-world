@@ -1,2 +1,5 @@
 # hello-world
-Getting started, exploring git
+
+---------------------------------
+>> May the Force be with you!  <<
+---------------------------------
